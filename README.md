@@ -8,8 +8,6 @@ A live visualization of more than 7000 stock prices and indicators using bokeh.
 
 * Bollinger bands (2 std).
 
-* Average line of close prices.
-
 ## Stock indicators include:
 
 * Simple Moving Average (aka SMA) (5 days, 10 days, 50 days and 100 days).
@@ -28,7 +26,7 @@ Simple, just do `bokeh serve run.py`.
 
 Live data courtesy of [IEX](https://iextrading.com/).
 
-This software experimental, don't go around spending your savings with it, because that would be extremely dumb.
+This software is experimental, don't go around spending your savings with it, because that would be extremely dumb.
 
 If you improve the code please consider a pull request. 
 
