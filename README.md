@@ -22,7 +22,7 @@ A live visualization of more than 7000 stock prices and indicators using bokeh.
 
 ## To run:
 
-Simple, just do `bokeh serve main.py`.
+Simple, just do `bokeh serve run.py`.
 
 ## Some notes:
 
