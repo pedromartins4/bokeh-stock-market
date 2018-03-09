@@ -28,6 +28,8 @@ Live data courtesy of [IEX](https://iextrading.com/).
 
 This software is experimental, don't go around spending your savings with it, because that would be extremely dumb.
 
+If you see a bug (as if that's possible!) or have any question please submit an issue.
+
 If you improve the code please consider a pull request. 
 
 ## Screenshot:
